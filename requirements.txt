@@ -1,0 +1,3 @@
+plotly==5.7.0
+pyannote.core>=4.4
+pyannote.database>=4.1.3

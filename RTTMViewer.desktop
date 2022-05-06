@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=RTTM Viewer
+Type=Application
+Exec=python {path} %f
+Terminal=false
+Categories=Development
