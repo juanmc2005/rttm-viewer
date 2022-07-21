@@ -12,7 +12,7 @@ RTTM Viewer allows you to quickly visualize RTTM files in an interactive way tha
 **Note:** RTTM Viewer can only be installed as an application on Linux. Pull requests are welcome :)
 
 ```shell
-git clone git@github.com:juanmc2005/rttm-viewer.git
+git clone https://github.com/juanmc2005/rttm-viewer.git
 cd rttm-viewer
 pip install -r requirements.txt
 
